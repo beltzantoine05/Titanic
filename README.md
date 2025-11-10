@@ -12,8 +12,6 @@ Mon modèle utilise **XGBoost** et **Pandas** avec une **recherche d'hyperparam�
 
 ---
 
-## 📂 **Structure du Dépôt**
-
 ## 🎯 **Résultats**
 
 | Métrique               | Score   |
